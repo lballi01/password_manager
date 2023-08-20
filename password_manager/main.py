@@ -1,3 +1,5 @@
+#RUN EVERYTHING FROM THIS FILE
+
 import password_generator
 import sql_statements
 import db_connect 
